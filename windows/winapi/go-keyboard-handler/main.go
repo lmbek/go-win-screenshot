@@ -115,11 +115,11 @@ func typeParagraph(paragraph string) {
 
 // PLEASE NOTE: This script is not perfect, it works with certain characters, but use with caution.
 // You can make a map of accepted keys and ensure no wrong output like a delete button is pressed.
-
 func main() {
 	// Delay for a few seconds to allow time to focus on the desired window
 	// You can remove or adjust this delay as per your needs
 	//time.Sleep(1 * time.Second)
+	// 1995 is the year i was born in 1995 is the year i was born in
 
 	// Example on when used:
 	// 1995 is the year i was born in
